@@ -1,4 +1,4 @@
-Front of first line Here is a newly updated line to the text End of first file 
+Front of first line Here is a newly updated line to the text End of first file.
 
 This is my first file 
 
