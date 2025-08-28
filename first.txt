@@ -1,4 +1,4 @@
-Front of first line Here is a newly updated line to the text RETRIAL ENDING
+Front of first line Here is a newly updated line to the text RETRIAL ENDING.
 
 This is my first file 
 
